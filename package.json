@@ -1,0 +1,24 @@
+{
+  "name": "react-native-snowfall",
+  "version": "1.0.0",
+  "description": "React Native Snowfall animation",
+  "main": "snowfall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snowfall",
+    "react-native"
+  ],
+  "author": "Jimmy Castex",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.2.0"
+  },
+  "devDependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-hot-loader": "^4.6.3",
+    "react-native": "^0.57.8"
+  }
+}
